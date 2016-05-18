@@ -12,3 +12,16 @@ Put your images in the `seleted_full` folder, and the corresponding superpixels 
 4. Click `save` button to save the annotations. The superpixel-level annotations will be saved in the `pixel-level` folder, and the tags will be saved in the `image-level` folder.
 5. Click `save (show)` button to save and visualize your annotations.
   ![GUI](save-and-show.png)
+
+## Miscellaneous
+You may interested in our [clothing parsing dataset]. The related paper is published in CVPR 2014.
+
+```
+@inproceedings{yang2014clothing,
+  title={Clothing Co-Parsing by Joint Image Segmentation and Labeling},
+  author={Yang, Wei and Luo, Ping and Lin, Liang}
+  booktitle={Computer Vision and Pattern Recognition (CVPR), 2014 IEEE Conference on},
+  year={2013},
+  organization={IEEE}
+}
+```
