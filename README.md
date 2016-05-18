@@ -14,7 +14,7 @@ Put your images in the `seleted_full` folder, and the corresponding superpixels 
   ![GUI](save-and-show.png)
 
 ## Miscellaneous
-You may interested in our [clothing parsing dataset]. The related paper is published in CVPR 2014.
+You may interested in our [clothing parsing dataset](https://github.com/bearpaw/clothing-co-parsing). The related paper is published in CVPR 2014.
 
 ```
 @inproceedings{yang2014clothing,
